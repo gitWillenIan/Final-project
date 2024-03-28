@@ -1,0 +1,19 @@
+# Preproposal
+
+## What idea(s) do you have for your final project?
+
+Fuzz Pedal(actual hardware or Plugin)
+
+simple sinwave vst, might change to add more
+
+if I can't find anything for this, idk pong or something
+
+
+
+## If you plan to collaborate with one or two classmates, what are their names?
+
+Nope
+
+## Do you have any questions of your own?
+
+Yes. I'm downloading Juce to see what I can start making there. What where the other softwares that I could use for making my own VST and our plugins.
